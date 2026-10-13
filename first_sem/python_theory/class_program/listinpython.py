@@ -4,4 +4,4 @@ for i in range(5):
     marks.append(my_marks)
 for j in range( len(marks)):
     print(f"your subjest {j+1} mark is {marks[j]}")
-print("",marks.count(10))
+print("",marks.count(11))
